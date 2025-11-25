@@ -1,0 +1,124 @@
+D:\PROJECT_C#\DoAnMonHoc\DoAnMonHoc\bin\Debug\DoAnMonHoc.exe.config
+D:\PROJECT_C#\DoAnMonHoc\DoAnMonHoc\bin\Debug\DoAnMonHoc.exe
+D:\PROJECT_C#\DoAnMonHoc\DoAnMonHoc\bin\Debug\DoAnMonHoc.pdb
+D:\PROJECT_C#\DoAnMonHoc\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.AssemblyReference.cache
+D:\PROJECT_C#\DoAnMonHoc\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmDangNhap.resources
+D:\PROJECT_C#\DoAnMonHoc\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmMain.resources
+D:\PROJECT_C#\DoAnMonHoc\DoAnMonHoc\obj\Debug\DoAnMonHoc.Properties.Resources.resources
+D:\PROJECT_C#\DoAnMonHoc\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.GenerateResource.cache
+D:\PROJECT_C#\DoAnMonHoc\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.CoreCompileInputs.cache
+D:\PROJECT_C#\DoAnMonHoc\DoAnMonHoc\obj\Debug\DoAnMonHoc.exe
+D:\PROJECT_C#\DoAnMonHoc\DoAnMonHoc\obj\Debug\DoAnMonHoc.pdb
+D:\PROJECT_C#\DoAnMonHoc\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmNhanVien.resources
+D:\PROJECT_C#\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.AssemblyReference.cache
+D:\PROJECT_C#\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmDangNhap.resources
+D:\PROJECT_C#\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmMain.resources
+D:\PROJECT_C#\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmNhanVien.resources
+D:\PROJECT_C#\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.Properties.Resources.resources
+D:\PROJECT_C#\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.GenerateResource.cache
+D:\PROJECT_C#\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.CoreCompileInputs.cache
+D:\PROJECT_C#\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.exe
+D:\PROJECT_C#\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.pdb
+D:\PROJECT_C#\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.exe.config
+D:\PROJECT_C#\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.exe
+D:\PROJECT_C#\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.pdb
+D:\DoAnLTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.exe.config
+D:\DoAnLTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.exe
+D:\DoAnLTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.pdb
+D:\DoAnLTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.AssemblyReference.cache
+D:\DoAnLTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmMain.resources
+D:\DoAnLTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmKho.resources
+D:\DoAnLTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.Properties.Resources.resources
+D:\DoAnLTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.GenerateResource.cache
+D:\DoAnLTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.CoreCompileInputs.cache
+D:\DoAnLTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.exe
+D:\DoAnLTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.pdb
+D:\DoAnLTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.exe.config
+D:\DoAnLTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmDoanhThu.resources
+D:\DoAnLTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmNhap.resources
+E:\Lập trình NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.exe.config
+E:\Lập trình NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.exe
+E:\Lập trình NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.pdb
+E:\Lập trình NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.AssemblyReference.cache
+E:\Lập trình NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.exe.config
+E:\Lập trình NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmDoanhThu.resources
+E:\Lập trình NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmKhachHang.resources
+E:\Lập trình NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmMain.resources
+E:\Lập trình NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmKho.resources
+E:\Lập trình NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmNhap.resources
+E:\Lập trình NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.Properties.Resources.resources
+E:\Lập trình NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.GenerateResource.cache
+E:\Lập trình NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.CoreCompileInputs.cache
+E:\Lập trình NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.exe
+E:\Lập trình NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.pdb
+E:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.exe.config
+E:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.exe
+E:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.pdb
+E:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.AssemblyReference.cache
+E:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmDoanhThu.resources
+E:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmDangNhap.resources
+E:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmHoaDon.resources
+E:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmKhachHang.resources
+E:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmMain.resources
+E:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmKho.resources
+E:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmNhap.resources
+E:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmSanPham.resources
+E:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.Properties.Resources.resources
+E:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.GenerateResource.cache
+E:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.CoreCompileInputs.cache
+E:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.exe
+E:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.pdb
+F:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.exe.config
+F:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.exe
+F:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.pdb
+F:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.AssemblyReference.cache
+F:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.exe.config
+F:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmDoanhThu.resources
+F:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmDangNhap.resources
+F:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmHoaDon.resources
+F:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmKhachHang.resources
+F:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmMain.resources
+F:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmKho.resources
+F:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmNhap.resources
+F:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmSanPham.resources
+F:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.Properties.Resources.resources
+F:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.GenerateResource.cache
+F:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.CoreCompileInputs.cache
+F:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.exe
+F:\DOAN.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.pdb
+D:\LTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.AssemblyReference.cache
+D:\LTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.exe.config
+D:\LTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmDoanhThu.resources
+D:\LTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmDangNhap.resources
+D:\LTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmHoaDon.resources
+D:\LTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmKhachHang.resources
+D:\LTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmMain.resources
+D:\LTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmKho.resources
+D:\LTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmNhap.resources
+D:\LTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmSanPham.resources
+D:\LTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.Properties.Resources.resources
+D:\LTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.GenerateResource.cache
+D:\LTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.CoreCompileInputs.cache
+D:\LTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.exe
+D:\LTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.pdb
+D:\LTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.exe.config
+D:\LTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.exe
+D:\LTN\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.pdb
+D:\DoAnLT.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.exe.config
+D:\DoAnLT.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.exe
+D:\DoAnLT.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\bin\Debug\DoAnMonHoc.pdb
+D:\DoAnLT.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.AssemblyReference.cache
+D:\DoAnLT.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.exe.config
+D:\DoAnLT.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmDoanhThu.resources
+D:\DoAnLT.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmDangNhap.resources
+D:\DoAnLT.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmHoaDon.resources
+D:\DoAnLT.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmKhachHang.resources
+D:\DoAnLT.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmMain.resources
+D:\DoAnLT.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmKho.resources
+D:\DoAnLT.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmNhap.resources
+D:\DoAnLT.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.frmSanPham.resources
+D:\DoAnLT.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.Properties.Resources.resources
+D:\DoAnLT.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.GenerateResource.cache
+D:\DoAnLT.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.csproj.CoreCompileInputs.cache
+D:\DoAnLT.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.exe
+D:\DoAnLT.NET\HuongDanDoAnMonHoc_CodeDangNhap\DoAnMonHoc\obj\Debug\DoAnMonHoc.pdb
